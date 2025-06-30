@@ -71,4 +71,3 @@ def calcularPromedios(lista):
 def buscarCalificaciones(lista):
     borrarPantalla()
     print(f"\n\t🔎 .:: Buscar Calificaciones ::. 🔎\n")
-    print(f"\n\tmy dih creamy as shi🥀🥀")
